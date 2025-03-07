@@ -1,1 +1,36 @@
+*{
+    background-color: rgb(250, 222, 145);
+}
+h1 {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(255, 153, 0);
 
+}
+h2{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(255, 153, 0);
+}
+ul{
+    list-style: none;
+    display: flex;
+    font-family:'Courier New', Courier, monospace;
+    padding: 0 10px;
+    margin: 10px;
+}
+
+ul li{
+    display: block;
+    text-align: center;
+}
+ul li a{
+    color:rgb(255, 153, 0);
+    font-size: 20px;
+}
+
+ul li img{
+    height: auto;
+    width: 400px;
+    border-radius: 10px;
+}
